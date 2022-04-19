@@ -4,7 +4,7 @@ import { Navbar as ManNavbar } from '@mantine/core';
 
 const Navbar: React.FC = () => {
   return (
-    <ManNavbar width={{ base: 300 }} height="100vh" p="xs">
+    <ManNavbar hidden width={{ base: 300 }} height="100vh" p="xs">
       {/* Navbar content */}
     </ManNavbar>
   );

@@ -1,0 +1,18 @@
+.data {
+  color: white;
+}
+
+.content {
+  overflow: scroll;
+  min-height: 20rem;
+  border: 1px solid white;
+}
+
+.block {
+  min-width: 1.5rem;
+  background-color: white;
+  text-align: center;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+  align-self: flex-end;
+}
